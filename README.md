@@ -19,3 +19,5 @@ The complete industrial implementation is **not publicly available**.
 - Simulation environments (e.g., MoveIt 2 / Gazebo)  
 
 
+
+https://github.com/harryshi0920/ur_randomized_pick/blob/main/IMG_3107.mov
