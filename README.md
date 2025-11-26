@@ -20,4 +20,6 @@ The complete industrial implementation is **not publicly available**.
 
 ## Demo Video
 https://github.com/harryshi0920/ur_randomized_pick/blob/main/IMG_3107.mov
+<video src="https://github.com/harryshi0920/ur_randomized_pick/raw/main/IMG_3107.MOV" width="600" controls></video>
+
 
