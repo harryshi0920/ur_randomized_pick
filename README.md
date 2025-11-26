@@ -20,4 +20,5 @@ The complete industrial implementation is **not publicly available**.
 
 
 
-https://github.com/harryshi0920/ur_randomized_pick/blob/main/IMG_3107.mov
+<video src="IMG_3107.mov" width="600" controls></video>
+
